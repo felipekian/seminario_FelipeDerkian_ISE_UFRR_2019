@@ -1,0 +1,3 @@
+https://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://developers.google.com/awareness/overview&prev=search
+
+https://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://www.techrepublic.com/article/google-awareness-api-the-smart-persons-guide/&prev=search
